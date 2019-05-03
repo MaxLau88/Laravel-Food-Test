@@ -1,6 +1,6 @@
 # `Laravel Food Test`
 
-Quest'applicazione è fatta con il framework **Laravel 5.5** e
+Quest'applicazione è realizzata con il framework **Laravel 5.5** e
 comprende già il preset di **Bootstrap 4.0**
 
 Prima di cominciare _`assicurati di aver inizializzato il progetto`_.
@@ -27,4 +27,4 @@ Solo i primi due punti sono obbligatori
 
 La realizzazione non è legata a particolari vincoli di sviluppo purchè il codice sia chiaro e commentato
 
-Carica il progetto su una repository pubblica a tue scelta e comunicaci l'indirizzo.
+`Carica il progetto su una repository pubblica` a tue scelta e comunicaci l'indirizzo.
